@@ -6,7 +6,8 @@ Source: GSS Data
 
 Variable: RACE1 & POLVIEWS & AGE
 
-Contributions: 
+Contributions:
+
 Code-
 
 - Elle 
