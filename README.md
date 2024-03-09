@@ -8,10 +8,14 @@ Variable: RACE1 & POLVIEWS & AGE
 
 Contributions: 
 Code-
+
 - Elle 
 - Carol
 - Diana
-Paper:-
+  
+Paper:
+
 - Adaire
 - Anna
 - Tamera
+- Elle (only one paragraph in results)
