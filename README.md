@@ -7,6 +7,7 @@ Source: GSS Data
 Variable: RACE1 & POLVIEWS & AGE
 
 Contributions: 
+
 Code:
 - Elle 
 - Carol
